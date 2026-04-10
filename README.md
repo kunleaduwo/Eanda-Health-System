@@ -3,7 +3,59 @@ A Hospital Management System
 
 <hr>
 <h2>Project Overview</h2>
+  <section>
+    <h2>Overview</h2>
+    <p>
+      A scalable web-based Hospital Management System built with Django and Django REST Framework to streamline healthcare operations,
+      including patient management, appointments, medical records, and billing.
+    </p>
+    <p>
+      The system is designed with a focus on structured backend architecture, data integrity, and real-world usability in healthcare environments.
+    </p>
+  </section>
 
+  <section>
+    <h2>Core Features</h2>
+    <ul>
+      <li>Role-based access control (Admin, Staff, etc.)</li>
+      <li>Patient registration and medical record management</li>
+      <li>Appointment scheduling and tracking</li>
+      <li>Electronic Medical Records (EMR)</li>
+      <li>Billing and payment management</li>
+      <li>Staff and department administration</li>
+      <li>Automated report generation</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>Technical Highlights</h2>
+    <ul>
+      <li>RESTful API built with Django REST Framework</li>
+      <li>PostgreSQL for reliable data storage</li>
+      <li>Modular Django architecture for scalability</li>
+      <li>Secure handling of sensitive medical data</li>
+      <li>Backend structured for real-world extensibility</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>Tech Stack</h2>
+    <ul>
+      <li>Python / Django / DRF</li>
+      <li>PostgreSQL</li>
+      <li>JavaScript, HTML, CSS</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>Future Improvements</h2>
+    <ul>
+      <li>JWT authentication</li>
+      <li>Docker-based deployment</li>
+      <li>Background task processing (Celery)</li>
+      <li>Multi-tenant hospital support</li>
+    </ul>
+  </section>
 <p>
 This project is a web-based Hospital Management System designed to improve the efficiency and 
 organization of healthcare operations. The system streamlines key hospital processes such as 
