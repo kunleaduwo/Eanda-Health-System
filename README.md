@@ -36,15 +36,7 @@ A Hospital Management System
       <li>Backend structured for real-world extensibility</li>
     </ul>
   
-  <section>
-    <h2>Future Improvements</h2>
-    <ul>
-      <li>JWT authentication</li>
-      <li>Docker-based deployment</li>
-      <li>Background task processing (Celery)</li>
-      <li>Multi-tenant hospital support</li>
-    </ul>
-  </section>
+  
 
 <h2>Technologies Used</h2>
 
