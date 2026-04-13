@@ -1,5 +1,5 @@
 # Eanda Health System 
-A Smart Hospital Management System
+A Smart Healthcare Management
 
 <hr>
 <h2>Project Overview</h2>
