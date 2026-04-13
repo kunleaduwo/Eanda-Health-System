@@ -57,6 +57,9 @@ A Smart Healthcare Management
 <img width="1267" height="652" alt="Eanda HMS_Book _Appointment" src="https://github.com/user-attachments/assets/85d2b16b-f858-474d-be2e-6de990e9f0ae" />
 <img width="1063" height="624" alt="Eanda HMS_checkout" src="https://github.com/user-attachments/assets/b5ec5430-2278-40b1-a271-8b7364214974" />
 <br>
+<br>
+<br>
+<br>
 <h2>Admin<h2>
   
 <img width="1344" height="637" alt="Eanda HMS_Admin_dashboard" src="https://github.com/user-attachments/assets/153c36ea-24e4-4095-b097-c4284017ab94" />
