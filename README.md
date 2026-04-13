@@ -1,11 +1,11 @@
 # Eanda-HMS
-A Hospital Management System
+A Smart Hospital System
 
 <hr>
 <h2>Project Overview</h2>
   <section>
     <p>
-      A scalable web-based Hospital Management System built with Django and Django REST Framework to streamline healthcare operations,
+      A scalable Smart Hospital System built with Django and Django REST Framework to streamline healthcare operations,
       including patient management, appointments, medical records, and billing.
     </p>
     <p>
